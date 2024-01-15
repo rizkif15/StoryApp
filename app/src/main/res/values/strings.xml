@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="ayo_daftarkan_dirimu">Ayo daftarkan dirimu</string>
+    <string name="masuk">Masuk</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="bergabunglah_dengan_kami_dan_mulailah_bagikanlah_ceritamu">Bergabunglah dengan kami dan mulailah bagikanlah ceritamu</string>
+    <string name="nama">Nama</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="selamat_datang_lagi">Selamat datang lagi</string>
+    <string name="banyak_yang_kamu_lewatkan_selama_kamu_pergi_ayo_segeralah_kembali_dan_mulai_bagikan_ceritamu">Banyak yang kamu lewatkan selama kamu pergi. Ayo segeralah kembali dan mulai bagikan ceritamu</string>
+    <string name="bagikan_pengalamanmu_sekarang_disini">Bagikan pengalamanmu sekarang disini!</string>
+    <string name="selamat_datang_di_story_app_aplikasi_ini_adalah_aplikasi_submission_dari_salah_satu_siswa_dicoding_dan_digunakan_untuk_tempat_untuk_membagikan_pengalaman_pengguna">Selamat datang di Story App. Aplikasi ini adalah aplikasi Submission dari salah satu siswa Dicoding dan digunakan untuk tempat untuk membagikan pengalaman Pengguna.</string>
+</resources>
